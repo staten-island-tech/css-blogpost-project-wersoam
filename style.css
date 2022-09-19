@@ -1,13 +1,19 @@
 body{background-color: blanchedalmond;
-}
+font-family: Comfortaa;}
 .number1{background-color: rgb(203, 132, 0);
- margin: 60px auto;
+ margin: 0px 700px;
 font-size: 30px;
 text-align: center;}
 h1 {background-color: coral;
 font-size: 40px;
 text-align: center;}
-.title{color: brown;}
+.title{color: brown;;}
 .guide{background-color: rgb(203, 132, 0);
 margin: 60px auto;
 font-size: 30px;}
+.img{margin: 0px 700px;}
+.number2{background-color: rgb(203, 132, 0);
+    margin: 0px 700px;
+   font-size: 30px;
+   text-align: center;
+margin-top: 50px;}
